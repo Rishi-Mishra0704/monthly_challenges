@@ -1,3 +1,5 @@
+//Please install the Pylance extension in vs code to enable Python IntelliSense
+
 {
     "python.languageServer": "Pylance"
 }
