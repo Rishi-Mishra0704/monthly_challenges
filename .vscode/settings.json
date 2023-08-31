@@ -1,5 +1,9 @@
 //Please install the Pylance extension in vs code to enable Python IntelliSense
 
 {
-    "python.languageServer": "Pylance"
+    "python.languageServer": "Pylance",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
 }
